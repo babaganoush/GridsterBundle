@@ -1,6 +1,6 @@
 <?php
 
-namespace Babaganoush\DataTablesBundle\DependencyInjection;
+namespace Babaganoush\GridsterBundle\DependencyInjection;
 
 use Symfony\Component\Config\Definition\Builder\TreeBuilder;
 use Symfony\Component\Config\Definition\ConfigurationInterface;

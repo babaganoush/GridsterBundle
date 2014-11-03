@@ -1,5 +1,5 @@
 parameters:
-#    babaganoush_datatables.example.class: Babaganoush\DataGridsterBundle\Example
+#    babaganoush_gridster.example.class: Babaganoush\GridsterBundle\Example
 
 services:
 #    babaganoush_gridster.example:
