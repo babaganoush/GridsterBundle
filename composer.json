@@ -1,0 +1,23 @@
+{
+    "name": "babaganoush/gridster-bundle",
+    "type": "symfony-bundle",
+    "description": "Gridster integrated with Symfony2",
+    "keywords": ["gridster", "grid", "panels"],
+    "homepage": "https://github.com/babaganoush/GridsterBundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Saud Faisal",
+            "email": "saud@2levelsabove.com",
+            "homepage": "http://2levelsabove.com"
+        }
+    ],
+    "require":     {
+        "symfony/framework-bundle": ">=2.2",
+        "bmatzner/jquery-bundle": ">=1.11"
+    },
+    "autoload": {
+        "psr-0": { "Babaganoush\\GridsterBundle": "" }
+    },
+    "target-dir": "Babaganoush/GridsterBundle"
+}
